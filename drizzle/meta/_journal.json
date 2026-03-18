@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1773850326872,
+      "tag": "0000_orange_grim_reaper",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1773850473767,
+      "tag": "0001_faulty_ma_gnuci",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1773861435336,
+      "tag": "0002_perpetual_shockwave",
+      "breakpoints": true
+    }
+  ]
+}
